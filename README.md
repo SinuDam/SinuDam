@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sinura Damsath Perera.
 - 👀 I’m interested in Web développement.
-- 🌱 I’m currently learning in Ananda College, Colombo 10
+- 🌱 I’m currently learning in Ananda College, Colombo 10.
 - 💞️ I’m looking to collaborate on web development project.
 - 📫 How to reach me via email at sinuradamsath2022@gmail.com.
 - 😄 Pronouns: he/him 
